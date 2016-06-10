@@ -1,0 +1,4 @@
+group 'com.fatinwind.jamel'
+version '0.1'
+
+apply plugin: 'idea'

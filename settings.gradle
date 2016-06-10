@@ -1,0 +1,4 @@
+include 'jamel-common'
+include 'jamel-thrift'
+include 'jamel-stack'
+

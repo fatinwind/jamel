@@ -1,5 +1,11 @@
 *.class
 
+# dirs
+/.idea/*
+/.gradle/*
+/out/*
+
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
